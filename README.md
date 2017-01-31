@@ -6,3 +6,4 @@
 
 语言：swift + php（后台 本地数据库）
 
+![效果图](https://github.com/weakGG/XQShopApp/gif/XQShopApp.gif)
